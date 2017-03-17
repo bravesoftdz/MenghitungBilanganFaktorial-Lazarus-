@@ -1,0 +1,3 @@
+MenghitungBilanganFaktorial
+
+Mengunakan IDE LAZARUS
